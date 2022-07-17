@@ -1,0 +1,9 @@
+body{
+    background-color : rebeccapurple;
+    font-family: "Roboto",sans-serif;
+}
+
+p{
+    color : blue;
+    /*font-size : 12px;*/
+}
